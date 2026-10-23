@@ -1,0 +1,8 @@
+{
+  "name": "Créa — Faire-part et Invitations 24h",
+  "description": "Application PWA de commande d'invitations et de faire-part simples et VIP pour l'Afrique francophone, livrés sous 24 heures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
